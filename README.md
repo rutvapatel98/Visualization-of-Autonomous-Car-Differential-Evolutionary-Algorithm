@@ -8,3 +8,5 @@ Clone the code and run the index.html file to view the simulation
 
 Medium blog: [click me](https://medium.com/@rutvakpatel98/visualization-of-autonomous-car-evolutionary-machine-learning-model-acdebdeae0ab) <br />
 Youtube link (output video): [click me](https://www.youtube.com/watch?v=VG4_Y5RnF9Y)
+
+<img width="616" alt="image" src="https://user-images.githubusercontent.com/36430176/177920823-f350cb34-4c25-45dc-9907-ba7133ffb50c.png">
