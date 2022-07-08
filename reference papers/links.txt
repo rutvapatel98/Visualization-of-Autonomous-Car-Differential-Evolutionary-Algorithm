@@ -1,0 +1,9 @@
+https://www.analyticsvidhya.com/blog/2018/07/autonomous-car-learnt-drive-itself-20-minutes-using-reinforcement-learning/
+
+https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/
+
+https://deepmind.com/blog/article/deep-reinforcement-learning
+
+https://www.intel.ai/demystifying-deep-reinforcement-learning/
+
+https://selfdrivingcars.mit.edu/resources/
