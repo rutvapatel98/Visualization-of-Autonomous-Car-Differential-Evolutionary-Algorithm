@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/addons/p5.dom.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.1.0/dist/tf.min.js"></script>
+    <title>Car test-1</title>
+  </head>
+  <body>
+    <script src="nn.js"></script>
+    <script src="ga.js"></script>
+    <script src="ray.js"></script>
+    <script src="p5.collide2d.js"></script>
+    <script src="boundary.js"></script>
+    <script src="particle.js"></script>
+    <script src="sketch.js"></script>
+    <script src="loadbinary.js"></script>
+    <br>
+    <button style="margin: 30px" id="btn_toggle" onclick="toggle_btn()">Dynamic</button>
+    <input type="number" id="obs_no" placeholder="enter upperbound">
+    <button style="margin: 30px" onclick="change_obs_no()">Done</button>
+    <button style="margin: 30px" onclick="save_model()">save_best</button>
+    JSON:
+    <input type="file" id="upload-json" placeholder="JSON">
+    Bin:
+    <input type="file" id="upload-weights" placeholder="Bin">
+    <button style="margin: 30px" onclick="load_model()">load</button>
+  </body>
+</html>
